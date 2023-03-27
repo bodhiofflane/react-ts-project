@@ -2,7 +2,6 @@ import {LocalGithubUser} from 'types';
 
 export const defaulUser: LocalGithubUser = {
   login: 'bodhiofflane',
-  id: 105118610,
   avatar: 'https://avatars.githubusercontent.com/u/105118610?v=4',
   name: 'bodhiofflane',
   company: null,
